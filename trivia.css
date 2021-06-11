@@ -1,0 +1,46 @@
+.primero {
+    text-align: center;
+    margin-top: 2%;
+}
+
+body {
+    background-image: url("denise-jans-8r6jfzoYV9c-unsplash.jpg");
+    position: relative;
+    background-repeat: no-repeat;
+     height:auto;
+}
+
+p {
+    color: white;
+    font-size: 27px;
+}
+
+
+* {
+    background-position: absolute;
+    background-size: cover;
+    height: 90%;
+}
+
+.foto {
+    height:25%;
+    width:25%;
+    border:2px solid gray;
+    border-radius: 10%;
+    box-shadow:3px 3px black;
+}
+
+.title {
+    font-size: 25px;
+    font-family: 'Times New Roman';
+}
+
+.wrapper {
+    margin-top: 3%;
+    text-align: center;
+}
+
+.form-control {
+    max-width: 35%;
+    margin-left: 33%;
+}
